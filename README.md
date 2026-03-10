@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="https://raw.githubusercontent.com/dasprosad/cavar/main/assets/logo.png" alt="cavar logo" width="180"/>
+	<img src="https://raw.githubusercontent.com/DasProsad/CaVar/main/assets/logo.png" alt="cavar logo" width="180"/>
 	<h1>CaVar</h1>
 	<h3>Check status of CRISPR-Cas9 off-targets from genomic variants</h3>
 	<a href="https://github.com/dasprosad/cavar"><img src="https://img.shields.io/github/v/release/dasprosad/cavar?logo=github$logoColor=white" alt="GitHub Release"></a>
