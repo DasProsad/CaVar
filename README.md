@@ -2,7 +2,7 @@
 	<img src="https://raw.githubusercontent.com/DasProsad/CaVar/main/assets/logo.png" alt="cavar logo" width="180"/>
 	<h1>CaVar</h1>
 	<h3>Check status of CRISPR-Cas9 off-targets from genomic variants</h3>
-	<a href="https://github.com/dasprosad/cavar"><img src="https://img.shields.io/github/v/release/dasprosad/cavar?logo=github$logoColor=white" alt="GitHub Release"></a>
+	<a href="https://github.com/dasprosad/cavar"><img src="https://img.shields.io/github/v/releases/dasprosad/cavar?logo=github$logoColor=white" alt="GitHub Release"></a>
 	<a href="https://pypi.org/project/cavar"><img src="https://img.shields.io/pypi/v/cavar?logo=pypi&logoColor=yellow" alt="PyPI Release"></a>
 	<a href="https://github.com/dasprosad/cavar/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-GPLv3-orange.svg" alt="License"></a>
 	<a href=""><img src="https://img.shields.io/badge/python-3.9%20|%203.10%20|%203.11%20|%203.12%20|%203.13%20|%203.14-blue" alt="Python versions"></a>
